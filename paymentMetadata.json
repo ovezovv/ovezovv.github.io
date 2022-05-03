@@ -1,0 +1,4 @@
+{
+  "code": "dummy-payment-handler",
+  "args": [{ "name": "automaticSettle", "value": "true" }]
+}
